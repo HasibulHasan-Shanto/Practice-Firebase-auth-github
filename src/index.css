@@ -1,0 +1,4 @@
+@import "tailwindcss";
+li a.active{
+  text-decoration: underline;
+}
